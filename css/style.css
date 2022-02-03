@@ -1,0 +1,50 @@
+body{
+	background: #2c435a;
+	color: white;
+}
+
+
+#btnB{
+	width: 55px;
+	height: 55px;
+	margin-left: 8%;
+	margin-top: 5%;
+	color: #f5e9de;
+}
+
+#back{
+	width: 5%;
+	background: radial-gradient(#68809e, transparent);
+    border-radius: 20px;
+    margin-top: 0.5%;
+    margin-left: 0.5%;
+}
+
+h1{
+	text-align: center;
+	margin-bottom: 5%;
+}
+
+.card{
+	width: 70%;
+	margin: 0 auto;
+	background: #2c435a;
+	border: solid 1px #2c435a;
+}
+
+h2{
+	text-align: center;
+}
+
+a{
+	text-decoration: none;
+	color: white;
+}
+
+a:hover{
+	color: white;
+}
+
+.card:hover{
+	box-shadow: 0px 0px 20px 5px white;
+}

@@ -1,0 +1,160 @@
+body {
+  background: #2c435a;
+  color: white;
+}
+
+#row1 {
+  display: flex;
+  flex-wrap: nowrap;
+  margin-bottom: 1%;
+}
+
+.btnB {
+  width: 45px;
+  height: 45px;
+  margin-left: 8%;
+  margin-top: 5%;
+  color: white;
+}
+
+#back {
+  width: 9%;
+  background: radial-gradient(#68809e, transparent);
+  border-radius: 20px;
+  margin-top: 0.5%;
+  margin-left: 0.5%;
+  display: inline-block;
+}
+
+h1 {
+  display: inline-block;
+  width: 73%;
+  margin-bottom: 0%;
+  margin-top: 1%;
+}
+
+#divTimer {
+  display: flex;
+  align-items: center;
+  width: 10%;
+  margin-top: 1%;
+}
+
+#btnTimer {
+  margin-left: 10%;
+  width: 35px;
+  height: 30px;
+  display: flex;
+}
+
+#nTimer {
+  font-size: 30px;
+  margin-bottom: 0%;
+}
+
+h1,
+h2 {
+  text-align: center;
+}
+
+h2 {
+  font-size: 20px;
+}
+
+h3 {
+  font-size: 22px;
+  margin-top: 6%;
+}
+
+#sup {
+  width: 60%;
+  margin: 0 auto;
+  border: solid 1px white;
+  background: #2c435a;
+  margin-top: 3%;
+  margin-bottom: 2%;
+}
+
+.col-md-3 {
+  border: solid 1px white;
+}
+
+#cardSelectores {
+  background: #2c435a;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  border: none;
+}
+
+select {
+  width: 60%;
+  background: #2c435a;
+  color: white;
+  border-color: white;
+}
+
+.btn {
+  width: 40%;
+  margin-top: 9%;
+  margin-left: 59%;
+  margin-bottom: 5%;
+  background: white;
+  color: #2c435a;
+  border-radius: 15px;
+  padding-left: 8px;
+  padding-right: 8px;
+  font-weight: 800;
+  border: solid 1px white;
+}
+.btn:hover {
+  background: #2c435a;
+  color: white;
+}
+
+#rowRutina {
+  width: 100%;
+  height: 100%;
+  border: solid 1px white;
+  display: flex;
+  align-content: flex-start;
+}
+
+.nuevaCard {
+  width: 25%;
+  height: 33.3%;
+  border: solid 1px white;
+  background: #2c435a;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.imgs {
+  width: 100%;
+}
+
+.imgsDiv {
+  width: 65%;
+  margin: 0 auto;
+}
+
+h4 {
+  font-size: 17px;
+  text-align: center;
+  margin-bottom: 0%;
+}
+
+h2 {
+  margin-bottom: 0%;
+}
+
+i {
+  text-align: right;
+  margin-top: 1%;
+  margin-right: 2%;
+  cursor: pointer;
+}
+
+.selected {
+  color: #7a8a9d;
+  border-color: #7a8a9d;
+}
